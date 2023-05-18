@@ -1,2 +1,2 @@
 # teste1cd
-Apenas projetos simples aprendidios nas aulas de Lógica de proogramação.
+Projeto simples aprendidio na aula de Lógica de proogramação.
