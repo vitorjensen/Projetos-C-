@@ -1,2 +1,2 @@
 # Projetos-C
-Projetos simples realizados nas aulas de Lógica de Programação.
+Projetos simples em C# realizados nas aulas de Lógica de Programação.
