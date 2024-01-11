@@ -1,2 +1,2 @@
-# Projetos-C-
-Apenas projetos simples aprendidios nas aulas de Lógica de proogramação.
+# Projetos-C
+Projetos simples realizados nas aulas de Lógica de Programação.
